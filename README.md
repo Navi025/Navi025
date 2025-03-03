@@ -70,7 +70,7 @@ Here are some of the projects I've worked on:
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Navnitya's LinkedIn](https://www.linkedin.com/in/navnitya-vinayak-790857212/)
-- **Email:** [your-email@example.com](vinayaknavnitya@gmail.com)
+- **Email:** [vinayaknavnitya@gmail.com](vinayaknavnitya@gmail.com)
 
 ---
 
