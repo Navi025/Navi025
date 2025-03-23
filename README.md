@@ -51,13 +51,13 @@ Here are some of the projects I've worked on:
 - **[Sales Analysis Site](https://github.com/Navi025/Sales-Analysis-Site-SAS-)**  
    Web app for **visualizing and analyzing sales data**.
 
-- **[Cardiovascular Disease Prediction]**  
+- **Cardiovascular Disease Prediction**  
   A machine learning-based Research (Review) Paper to predict cardiovascular diseases using retinal fundus scan images.
 
 - **[Think! Blink! Touch! (TBT GAME)](https://simon-says-game-ten.vercel.app/)**
   A fun and challenging memory-based IQ game where players must remember and repeat an increasing sequence of colors. Built using HTML, CSS, and JavaScript.
 
-- **[Chat Bot]**  
+- **Chat Bot**  
   A GUI-based simple chatbot created using Python, providing interactive conversations.
 
 ---
