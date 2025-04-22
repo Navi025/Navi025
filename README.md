@@ -1,6 +1,6 @@
 # Hi there, I'm Navnitya! 👋
 
-I'm a **Computer Science & Engineering Graduate** passionate about **Data Science**, **Machine Learning**, and **Software Development**. I enjoy solving complex problems and building projects that make an impact. I'm continuously learning and exploring new technologies to improve my skills.
+I'm a **Computer Science & Engineering Graduate** passionate about  **Software Development**, **Data Science**, and  **Machine Learning**. I enjoy solving complex problems and building projects that make an impact. I'm continuously learning and exploring new technologies to improve my skills.
 
 ---
 
